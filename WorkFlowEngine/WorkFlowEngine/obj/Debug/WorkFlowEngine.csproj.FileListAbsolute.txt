@@ -1,0 +1,7 @@
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe.config
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.exe
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\bin\Debug\WorkFlowEngine.pdb
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.AssemblyReference.cache
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.csproj.CoreCompileInputs.cache
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.exe
+E:\Database-Conection\WorkFlowEngine\WorkFlowEngine\obj\Debug\WorkFlowEngine.pdb
